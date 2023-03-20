@@ -4,8 +4,8 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseurl: 'https://kniffinproject.netlify.app' # Website URL
+title: Cornell Sports Research Conference # Website name
+baseurl: 'https://csrc-cornell.netlify.app' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################

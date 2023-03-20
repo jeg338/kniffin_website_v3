@@ -14,27 +14,27 @@ font_size: L
 
 site_type: Person
 local_business_type: ''
-org_name: ''
+org_name: 'Cornell Sports Research Conference'
 description: ''
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: kmk276@cornell.edu
-phone: 607-255-8943
+email: csrc.cornell@gmail.com
+# phone: 607-255-8943
 address:
-  street: Warren Hall 111
+  street: Duffield Atrium
   city: Ithaca
   region: NY
   postcode: '14853'
   country: United States
   country_code: US
 coordinates:
-  latitude: '42.44923565621469'
-  longitude: '-76.47744491138829'
-directions: Enter Warren Hall and take a left to Office 111 on Floor 1
-#office_hours:
-#  - 'Monday 10:00 to 13:00'
+  latitude: '42.444554'
+  longitude: '-76.482646'
+  #directions: Enter Warren Hall and take a left to Office 111 on Floor 1
+office_hours:
+  - 'Friday 12:00 pm - 2:00 pm'
 #  - 'Wednesday 09:00 to 10:00'
 #appointment_url: 'https://calendly.com'
 contact_links:
