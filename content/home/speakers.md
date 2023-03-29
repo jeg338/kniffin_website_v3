@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Speakers
+title: Presenters
 subtitle:
 
 # Date format for experience
@@ -49,4 +49,6 @@ date_format: Jan 2006
 #   columns: '2'
 ---
 
-Insert text explaining the conference’s speakers. Insert text explaining the conference’s speakers. Insert text explaining the conference’s speakers. Insert text explaining the conference’s speakers. Insert text explaining the conference’s speakers. Insert text explaining the conference’s speakers. Insert text explaining the conference’s speakers. Insert text explaining the conference’s speakers.
+Students (undergraduate and graduate) are invited to submit a poster to present. Please **fill out this form** to submit. Deadline to apply is April 24th at 5:00 pm EST.
+
+Posters must be designed for 36" x 54" (portrait or landscape). Dimensions can be set in Powerpoint by clicking Deisgn and then Slide Size and then Custom

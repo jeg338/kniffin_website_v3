@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 
-title: Locations
+title: Location
 subtitle:
 
 # Showcase personal skills or business features.
@@ -45,4 +45,11 @@ subtitle:
 #  description = "90%"
 ---
 
-Insert text explaining the conference's location. Insert text explaining the conference's location. Insert text explaining the conference's location. Insert text explaining the conference's location. Insert text explaining the conference's location. Insert text explaining the conference's location. Insert text explaining the conference's location. Insert text explaining the conference's location.
+The conference will be located in the **Duffield Atrium** at Cornell University. Entrance to Duffield can be found on: 
+1. North Entrance: Outside the intersection of Campus Rd and Feeny Way (formerly East Ave)
+2. West Entrance: Facing the Engineering Quad
+3. West Entrance 2: Facing Kimball Hall, enter through Upson, walk straight and make the first left to Duffield Atrium
+4. East Entrance: Facing the baseball field on Hoy Rd, enter through Upson, walk straight and make a right to Duffield Atrium
+
+Click [here](https://www.google.com/maps/place/Duffield+Hall/@42.4447969,-76.4833806,18.14z/data=!4m6!3m5!1s0x89d0818c7ee4a1c3:0xe5da4ee416b5e948!8m2!3d42.4449959!4d-76.4826395!16s%2Fg%2F1pp2tgz66) to link to **Google Maps**
+

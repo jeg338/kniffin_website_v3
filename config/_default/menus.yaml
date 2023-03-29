@@ -7,10 +7,10 @@ main:
   - name: About
     url: '#about'
     weight: 10
-  - name: Locations
+  - name: Location
     url: '#locations'
     weight: 20
-  - name: Speakers
+  - name: Presenters
     url: '#speakers'
     weight: 30
   - name: Partners

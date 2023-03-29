@@ -52,5 +52,4 @@ date_format: Jan 2006
 #   columns: '2' 
 ---
 
-Insert text explaining the conference’s partners. Insert text explaining the conference’s partners. Insert text explaining the conference’s partners. Insert text explaining the conference’s partners. Insert text explaining the conference’s partners. Insert text explaining the conference’s partners. Insert text explaining the conference’s partners. Insert text explaining the conference’s partners.
-
+The Cornell Sports Research Conference is hosted in collaboration with [Cornell Center for Social Sciences](https://socialsciences.cornell.edu/about)
