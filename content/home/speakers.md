@@ -49,6 +49,6 @@ date_format: Jan 2006
 #   columns: '2'
 ---
 
-Students (undergraduate and graduate) are invited to submit a poster to present. Please **fill out this form** to submit. Deadline to apply is April 24th at 5:00 pm EST.
+Students (undergraduate and graduate) are invited to submit a poster to present. Please email csrc.cornell@gmail.com to submit. Deadline to apply is April 24th at 5:00 pm EST.
 
 Posters must be designed for 36" x 54" (portrait or landscape). Dimensions can be set in Powerpoint by clicking Deisgn and then Slide Size and then Custom
