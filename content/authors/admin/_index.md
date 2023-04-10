@@ -47,6 +47,9 @@
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref #"uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-The Cornell Sports Research Conference (CSRC) will take place Friday, April 28, 2022 from 12:00 pm - 2:00 pm EST in the Duffield Atrium at Cornell University. 
+The **1st Annual Cornell Sports Research Conference (CSRC)** will take place Friday, April 28, 2023 from 12:00 pm - 2:00 pm EST in the Duffield Atrium at Cornell University.
 
-The conference is FREE to Cornell University community members. Food and drink will also be conference attendees.
+Posters featuring research by Cornell undergraduate and graduate students will be the main component of this year's conference.
+
+Topics can range widely, addressing areas such as Sports Analytics, the Sports Industry, or the role of Sport in Society. The conference is intended to be very interdisciplinary and engage students and faculty-advisors from across the University.
+The conference is FREE to Cornell University community members. Food and drink will also be free for the first 80 conference attendees.
