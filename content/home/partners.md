@@ -51,4 +51,4 @@ date_format: Jan 2006
 # design:
 #   columns: '2' 
 ---
-The Cornell Sports Research Conference is hosted with support from the [Cornell Center for Social Sciences](https://socialsciences.cornell.edu/about)
+The Cornell Sports Research Conference is hosted with support from the [Cornell Center for Social Sciences](https://socialsciences.cornell.edu/about).
