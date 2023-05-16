@@ -49,6 +49,6 @@ date_format: Jan 2006
 #   columns: '2'
 ---
 
-Students (undergraduate and graduate) can submit their poster to <csrc.cornell@gmail.com> anytime until 5pm on April 24 (Monday). Posters need to be designed for printing on 36" x 54" poster-paper (portrait or landscape). In case it's helpful to specify, you can set/check dimensions in PowerPoint by clicking Design and then Slide Size and then Custom.
+Students (undergraduate and graduate) can submit their poster to <csrc.cornell@gmail.com> anytime until 5pm on April 22 (Monday). Posters need to be designed for printing on 36" x 54" poster-paper (portrait or landscape). In case it's helpful to specify, you can set/check dimensions in PowerPoint by clicking Design and then Slide Size and then Custom.
 
-Program decisions will be made on April 25 (Tuesday) and, for those posters that are accepted for presentation, the Conference organizers will manage and cover related printing costs -- thanks to support from the Cornell Center for Social Sciences.
+Program decisions will be made on April 23 (Tuesday) and, for those posters that are accepted for presentation, the Conference organizers will manage and cover related printing costs -- thanks to support from the Cornell Center for Social Sciences.

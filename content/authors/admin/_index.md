@@ -49,7 +49,7 @@
 
 Thank you to all presenters and attendees of our **1st Annual Cornell Sports Research Conference (CSRC)**.
 
-**SAVE THE DATE:** The **2nd Annual Cornell Sports Research Conference** will take place **Friday, April 26, 2023** from 12:00 pm - 2:00 pm EST in the Duffield Atrium at Cornell University.
+**SAVE THE DATE:** The **2nd Annual Cornell Sports Research Conference** will take place **Friday, April 26, 2024** from 12:00 pm - 2:00 pm EST in the Duffield Atrium at Cornell University.
 
 Posters featuring research by Cornell undergraduate and graduate students will be the main component of this year's conference.
 
